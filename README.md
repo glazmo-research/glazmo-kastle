@@ -1,5 +1,7 @@
 # Kastle 2
 
+*Compatible with Citadel*
+
 A modular DSP platform that fits into your pocket!  
 Comes with open-source codebase (including two official firmwares) and schematics.
 
